@@ -1,0 +1,15 @@
+html, body
+{
+background:aqua;
+text-align: center;
+}
+#1_img
+{
+height: 50px;
+width: 50px;
+}
+#2_img
+{
+    height: 100px;
+    width: 120px;
+}
